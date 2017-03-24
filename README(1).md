@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://propeller.in/">
-    <img src="http://propeller.in/assets/images/banner-propeller-logo.png">
+    <img src="http://propeller.in/html/assets/landing-page/images/propeller-logo.svg">
   </a>
 
   <h3 align="center">Propeller</h3>
