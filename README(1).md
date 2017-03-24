@@ -98,14 +98,13 @@ Get updates on Propeller's development and chat with the project maintainers and
 
 - Follow [@propellerkit on Twitter](https://twitter.com/PropellerKit).
 - Chat with fellow members on [GITTER](https://gitter.im/Propeller-Material-Design-Bootstrap-Framework/Support).
-- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
 
 
 ## Versioning
 
 For transparency into our release cycle and in striving to maintain backward compatibility, Propeller is maintained under [the Semantic Versioning guidelines](http://semver.org/). Sometimes we screw up, but we'll adhere to those rules whenever possible.
 
-See [the Releases section of our GitHub project](https://github.com/digicorp/propeller/releases) for changelogs for each release version of Bootstrap.
+See [the Releases section of our GitHub project](https://github.com/digicorp/propeller/releases) for changelogs for each release version of Propeller.
 
 
 ## License
