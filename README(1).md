@@ -42,10 +42,10 @@
 
 Several quick start options are available:
 
-- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.0.0-alpha.6.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
-- Install with [npm](https://www.npmjs.com): `npm install bootstrap@4.0.0-alpha.6`
-- Install with [Bower](https://bower.io): `bower install bootstrap#v4.0.0-alpha.6`
+- [Download the latest release.](https://github.com/propeller/HTML/archive/pmd-1.0.0.zip)
+- Clone the repo: `git clone https://github.com/propeller.git`
+- Install with [npm](https://www.npmjs.com): `npm install propeller@1.1.0-alpha.1`
+- Install with [Bower](https://bower.io): `bower install propeller#v1.1.0-alpha.1`
 
 
 ## Propeller Guideline
