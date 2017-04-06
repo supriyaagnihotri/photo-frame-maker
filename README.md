@@ -4,8 +4,8 @@ All notable changes to this project will be documented in this file.
 
 --- 
 
-## [1.1.0](https://github.com/digicorp/propeller/releases/tag/1.1.0) (03/24/2017)
-Released on Thursday, March 24, 2017. All issues associated with this milestone can be found using this [filter](https://github.com/digicorp/propeller/issues).
+## [1.1.0](https://github.com/digicorp/propeller/releases/tag/1.1.0) (04/06/2017)
+Released on Thursday, April 06, 2017. All issues associated with this milestone can be found using this [filter](https://github.com/digicorp/propeller/issues).
 
 #### Highlights
 * Integrated Bower and NPM packages. 
@@ -14,8 +14,8 @@ Released on Thursday, March 24, 2017. All issues associated with this milestone 
 * Removed <code>modal.js</code> file from library and handle Modalbox component vertical center alignment with CSS.
 * Fixed active tab bar and navigation arrow alignment issue and active tab container width issue in Scrollable Tab component on Window resize function.
  * Enhanced our Landing page with new section which includes - 'Roadmap'.
-* Updated docs for the components.
- * Fixed up component's issues received from Github community, Gitter.
+* Updated docs section for the components.
+ * Fixed up issues in the following component - Dropdown, Alert, Floating Action Button, Select2, Scrollable Tabs, Datetimepicker, and Modalbox.
  
 #### Added
 ###### JS
@@ -29,17 +29,17 @@ Released on Thursday, March 24, 2017. All issues associated with this milestone 
 #### Fixed
 ###### JS
 * [#26f7356](https://github.com/digicorp/propeller/commit/26f7356): Resolved Dropdown component's toggle issue for mobile and tablet devices.
- * [#ce8e4bc](https://github.com/digicorp/propeller/commit/ce8e4bc): Resolved Floating label alignment issue in Select 2 component, when initial value was null.
+ * [#ce8e4bc](https://github.com/digicorp/propeller/commit/ce8e4bc): Resolved Floating label alignment issue in Select2 component, when initial value was null.
 * [#be27f64](https://github.com/digicorp/propeller/commit/be27f64): Resolved Sidebar overlay closing issue for window resize function.
  * [#44662c8](https://github.com/digicorp/propeller/commit/44662c8): Resolved Browser Console error issue coming in DateTimePicker component on selecting datepicker only.
-* [#be27f64](https://github.com/digicorp/propeller/commit/be27f64): Fixed 'data-duration' issue in Alert component.
+* [#41dd312](https://github.com/digicorp/propeller/commit/41dd312): Fixed 'data-duration' issue in Alert component.
  * [#315f701](https://github.com/digicorp/propeller/commit/315f701): Fixed active tab bar and navigation arrow alignment issue and active tab container width issue in Scrollable Tab component for Window resize function.
-* [#be27f64](https://github.com/digicorp/propeller/commit/be27f64): Restricted the ripple effect animtion area within the button width for Floating Action Button component.
- * [#cf94b03](https://github.com/digicorp/propeller/commit/cf94b03): Resolved Datetimepicker Hour Hand update issue. 
+* [#cf94b03](https://github.com/digicorp/propeller/commit/cf94b03): Resolved Datetimepicker Hour Hand update issue. 
 
 #### Removed
 ###### CSS
 * [#fe22e08](https://github.com/digicorp/propeller/commit/fe22e08): Removed unwanted white space in the browser speciflc CSS property for Accordion component.
+ * [#fe722fc](https://github.com/digicorp/propeller/commit/fe722fc) [#3267639](https://github.com/digicorp/propeller/commit/3267639): Removed the ripple effect animtion css class for Floating Action Button component.
 ###### JS
 * [#f41df18](https://github.com/digicorp/propeller/commit/f41df18): Removed 'modal.js' file from modalbox component.
 
