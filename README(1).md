@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://propeller.in/">
-    <img src="http://propeller.in/assets/landing-page/images/propeller-logo.svg">
+    <img src="http://propeller.in/assets/landing-page/images/banner-propeller-logo.png" />
   </a>
 
   <h3 align="center">Propeller</h3>
@@ -42,10 +42,14 @@
 
 Several quick start options are available:
 
-- [Download the latest release.](https://github.com/propeller/HTML/archive/pmd-1.0.0.zip)
+- [Download the latest release.](https://github.com/propeller/HTML/archive/pmd-1.1.0.zip)
 - Clone the repo: `git clone https://github.com/propeller.git`
-- Install with [npm](https://www.npmjs.com): `npm install propeller@1.1.0-alpha.1`
-- Install with [Bower](https://bower.io): `bower install propeller#v1.1.0-alpha.1`
+- Install with Bower: `bower install propeller`
+- Install with npm: `npm install propellerkit`
+- Install Select2 with npm: `npm install propellerkit-select2`
+- Install range slider with npm: `npm install propellerkit-range-slider`
+- Install datetimepicker with npm: `npm install propellerkit-datetimepicker`
+- Install datatables with npm: `npm install propellerkit-datatables`
 
 
 ## Propeller Guideline
