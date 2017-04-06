@@ -10,15 +10,12 @@ Released on Thursday, March 24, 2017. All issues associated with this milestone 
 #### Highlights
 * Integrated Bower and NPM packages. 
  * Integrated Grunt.
-* Added 'Propeller built themes' for download.
- * Added <code>data-duration</code> attribute in Alert component to customize alert toggle time . 
-* Removed <code>modal.js</code> file from library.
- *  Rewamped Modalbox component alignment with CSS.
-* Fixed alignment issues in the Scrollable Tab component.
- * Enhanced our Landing page with new sections which includes - 'Built With Propeller', 'Propeller Theme', and 'Roadmap'.
+ * Added <code>data-duration</code> attribute in Alert component to customize alert visibility time . 
+* Removed <code>modal.js</code> file from library and handle Modalbox component vertical center alignment with CSS.
+* Fixed active tab bar and navigation arrow alignment issue and active tab container width issue in Scrollable Tab component on Window resize function.
+ * Enhanced our Landing page with new section which includes - 'Roadmap'.
 * Updated docs for the components.
- * Enhanced Propeller Admin theme.
-* Fixed up component's issues received from Github community.
+ * Fixed up component's issues received from Github community, Gitter.
  
 #### Added
 ###### JS
