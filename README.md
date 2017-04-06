@@ -21,14 +21,13 @@ Released on Thursday, March 24, 2017. All issues associated with this milestone 
 * Fixed up component's issues received from Github community.
  
 #### Added
-###### CSS
-* [#f41df18](https://github.com/digicorp/propeller/commit/f41df18): Added css and class to vertically middle align the modalbox component.
 ###### JS
 * [#41dd312](https://github.com/digicorp/propeller/commit/41dd312): Added 'data-duration' attribute in Alert component. 
 
 #### Updated
 ###### CSS
 * [#26f7356](https://github.com/digicorp/propeller/commit/26f7356): Enhanced Dropdown component's animation property.
+* [#f41df18](https://github.com/digicorp/propeller/commit/f41df18): Updated css to vertically middle align the modalbox component.
 
 #### Fixed
 ###### JS
@@ -39,6 +38,7 @@ Released on Thursday, March 24, 2017. All issues associated with this milestone 
 * [#be27f64](https://github.com/digicorp/propeller/commit/be27f64): Fixed 'data-duration' issue in Alert component.
  * [#315f701](https://github.com/digicorp/propeller/commit/315f701): Fixed active tab bar and navigation arrow alignment issue and active tab container width issue in Scrollable Tab component for Window resize function.
 * [#be27f64](https://github.com/digicorp/propeller/commit/be27f64): Restricted the ripple effect animtion area within the button width for Floating Action Button component.
+ * [#cf94b03](https://github.com/digicorp/propeller/commit/cf94b03): Resolved Datetimepicker Hour Hand update issue. 
 
 #### Removed
 ###### CSS
@@ -49,5 +49,12 @@ Released on Thursday, March 24, 2017. All issues associated with this milestone 
  
 #### Packages
 * [#f8efeb0](https://github.com/digicorp/propeller/commit/f8efeb0): Integrated Grunt with Propeller.
- * [#](#): Built NPM packages.
-* [#](#): Built BOWER packages.
+ * [#e334be8](https://github.com/digicorp/propeller/commit/e334be8): Built NPM packages.
+* [#ecdad8b](https://github.com/digicorp/propeller/commit/ecdad8b): Built BOWER packages.
+ * Built NPM package for below third party components:
+   * [#3308812](https://github.com/digicorp/propeller/commit/3308812): Select2
+    * [#386750d](https://github.com/digicorp/propeller/commit/386750d): Range Slider
+   * [#2f2a2ee](https://github.com/digicorp/propeller/commit/2f2a2ee): Datetimepicker
+    * [#852726b](https://github.com/digicorp/propeller/commit/852726b): Data tables
+   * [#fe22e08](https://github.com/digicorp/propeller/commit/fe22e08): Custom Scroll
+
