@@ -8,7 +8,6 @@
   <p align="center">
     A front-end responsive framework 
     based on Google's Material Design Standards & Bootstrap.
-    It makes your website more attractive, consistent, and functionally powerful.
     <br>
     <a href="http://propeller.in/"><strong>Visit Propeller &raquo;</strong></a>
   </p>
